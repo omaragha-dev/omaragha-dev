@@ -29,51 +29,16 @@ I specialize in **Laravel** and **PHP**, and I’m always eager to explore new t
 
 ---
 
-## 🛠️ Featured Projects
-
-Here are some of the key projects I've worked on:
-
-### [**Real-time Error Tracking System with WebSocket**](https://github.com/your-username/project-name)
-A project designed to track real-time application errors using Laravel and WebSocket technologies like Laravel Echo and Pusher. 
-
-**Technologies**: Laravel, Laravel Echo, Pusher, WebSockets, MySQL  
-**Description**: This project enables real-time error monitoring, helping developers identify and respond to issues faster.
-
-### [**Nova Byte - Web Development & Digital Solutions**](https://github.com/your-username/project-name)
-My personal company project offering web development, cybersecurity, and digital marketing solutions to SMEs and startups.
-
-**Technologies**: Laravel, PHP, JavaScript, MySQL, Digital Marketing Tools  
-**Description**: Creating a range of custom solutions for small to medium-sized businesses, enhancing their digital presence and security.
-
----
-
 ## 📢 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omar-bayan-al-agha)
-- 🐦 [Twitter](https://twitter.com/your-username)
-- 🌐 [Portfolio Website](https://your-portfolio.com)
-
----
-
-## 📚 Open Source Contributions
-
-I actively contribute to open source projects and love collaborating with other developers. Below are some of the contributions I’ve made to the community:
-
-- [**Laravel Projects**](https://github.com/your-username/laravel-projects) - Contributing to Laravel packages and open-source plugins.
-- [**Security Tools**](https://github.com/your-username/security-tools) - Developing tools for penetration testing and security audits.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/omaraghadev)
+- 🐦 [Twitter](https://twitter.com/omaragha_dev)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omaragha-dev&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
-## 📑 Publications and Blogs
-
-- [**Tech Blog**](https://your-blog.com) - I regularly write about **backend development**, **cybersecurity** tips, and my journey in tech.
-- [**Medium Articles**](https://medium.com/@your-username) - Sharing insights on **web development** and **security**.
 
 ---
 
