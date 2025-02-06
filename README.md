@@ -35,7 +35,7 @@ I specialize in **Laravel** and **PHP**, and I’m always eager to explore new t
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omaragha-dev&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omaragha-dev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
