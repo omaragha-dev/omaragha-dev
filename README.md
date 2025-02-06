@@ -47,10 +47,10 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **Cybersecurity En
 
 ## 🌐 Featured Projects
 
-### [Codeey GPT](https://codeeygpt.com)
+### [Code Eygpt](https://codeeygpt.com)
 **A custom CMS platform for a construction company.** Designed to help teams manage content effortlessly and keep their website updated without technical expertise.
 
-### [Blue Shield](https://blueshield.com)
+### [Blue Shield](https://github.com/omaragha-dev/Blue-Shield)
 **Cybersecurity company website.** Built with a focus on secure and dynamic data management to provide a seamless content updating experience.
 
 ### [Al-Maghazi](https://al-maghazi.com)
