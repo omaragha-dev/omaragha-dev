@@ -18,14 +18,11 @@ I specialize in **Laravel** and **PHP**, and I’m always eager to explore new t
 
 ## 🛠️ Technologies & Tools I Use
 
-- **Backend Development**: Laravel, PHP, JavaScript, Python, Node.js
+- **Backend Development**: Laravel, PHP
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL
 - **Security**: Penetration Testing, Vulnerability Assessments, Encryption Techniques
-- **Cloud Platforms**: AWS, DigitalOcean
-- **Version Control**: Git, GitHub, GitLab
-- **DevOps Tools**: Docker, Kubernetes, CI/CD pipelines
-- **WebSockets**: Laravel Echo, Pusher, Socket.IO
+- **Version Control**: Git, GitHub
 
 ---
 
